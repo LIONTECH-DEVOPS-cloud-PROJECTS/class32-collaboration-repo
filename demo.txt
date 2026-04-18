@@ -1,0 +1,6 @@
+Git is a must learn skill
+I love Git
+Git is a foundationn for software  development
+Checking versions control status
+git status
+git add

@@ -1,6 +1,7 @@
 Git is a must learn skill
 I love Git
-Git is a foundationn for software  development
+Git is a foundation for software development
 Checking versions control status
 git status
 git add
+# I am fascinated with the idea of learning and practicing git with prof. prince
